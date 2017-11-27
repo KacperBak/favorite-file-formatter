@@ -1,0 +1,2 @@
+= README
+favorite-file-formatter - A custom formatter for text files
