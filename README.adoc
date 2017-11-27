@@ -1,2 +1,3 @@
 = README
-favorite-file-formatter - A custom formatter for text files
+
+favorite-file-formatter - A custom formatter for text files.
